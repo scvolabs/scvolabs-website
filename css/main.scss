@@ -1,0 +1,157 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
+
+// Base variables
+
+$base-font-family:                Helvetica, Arial, sans-serif;
+$base-font-weight:                400;
+$base-font-color:                 #666666;
+$base-font-size:                  18px;
+
+$base-line-height:                1.5;
+
+$h1-font-family:                  Montserrat, sans-serif;
+$h1-font-weight:                  700;
+$h1-font-color:                   #FFFFFF;
+$h1-font-size:                    64px;
+
+$h2-font-family:                  Montserrat, sans-serif;
+$h2-font-weight:                  700;
+$h2-font-color:                   #FF6A00;
+$h2-font-size:                    32px;
+
+$h-font-family:                   "Droid Serif", serif;
+$h-font-weight:                   700;
+$h-font-color:                    #333333;
+
+$brand-color:                     #3399FF;
+$brand-color-hover:               #5CADFF;
+
+$brand-color-button:              #3399FF;
+$brand-color-button-border:       #2E8AE6;
+
+$brand-color-button-hover:        #5CADFF;
+$brand-color-button-border-hover: #47A3FF;
+
+$spacing-unit:                    30px;
+
+
+
+// Base styles 
+
+body { 
+  font-family:      $base-font-family;
+  font-weight:      $base-font-weight;
+  font-size:        $base-font-size;
+  color:            $base-font-color;
+  line-height:      $base-line-height;
+  background-color: #F8F8F8;
+}
+
+h1 {
+  font-family:      $h1-font-family;
+  font-weight:      $h1-font-weight;
+  color:            $h1-font-color;
+  font-size:        $h1-font-size;
+}
+
+h2 {
+  font-family:      $h2-font-family;
+  font-weight:      $h2-font-weight;
+  color:            $h2-font-color;
+  font-size:        $h2-font-size;
+  line-height:      $base-line-height;
+}
+
+h3, h4, h5, h6 {
+  font-family:      $h-font-family;
+  font-weight:      $h-font-weight;
+  color:            $h-font-color;
+}
+
+
+
+// Links and buttons
+
+a {
+  color: $brand-color;
+}
+
+a:hover {
+  color: $brand-color-hover;
+}
+
+a:hover fa {
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: $brand-color-button;
+  border-color: $brand-color-button-border;
+}
+
+.btn-primary:hover {
+  background-color: $brand-color-button-hover;
+  border-color: $brand-color-button-border-hover;  
+}
+
+
+
+// Spacing
+
+h2 {
+  margin-top: $spacing-unit * 2;
+  margin-bottom: $spacing-unit * 2;
+}
+
+h3, h4, h5, h6 {
+  margin-top: $spacing-unit;
+}
+
+.btn-lg, .input-lg {
+  margin-top: $spacing-unit / 3;
+  margin-bottom: $spacing-unit / 3;
+}
+
+
+
+// Images
+
+img {
+  max-width: 100%;
+}
+
+img.logo {
+  height: $spacing-unit;
+}
+
+
+
+// Header and footer
+
+.header {
+  padding-top: $spacing-unit * 2;
+  padding-bottom: $spacing-unit * 2;
+  background-color: #FF6A00;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFA826), to(#FF6A00));
+  background-image: -webkit-linear-gradient(top, #FFA826, #FF6A00); 
+  background-image: -moz-linear-gradient(top, #FFA826, #FF6A00);
+  background-image: -ms-linear-gradient(top, #FFA826, #FF6A00);
+  background-image: -o-linear-gradient(top, #FFA826, #FF6A00);
+}
+
+.footer {
+  margin-top: $spacing-unit * 1.5;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit / 2;
+  background-color: #333333;
+  color: #CCCCCC;
+  line-height: 1.2;
+}

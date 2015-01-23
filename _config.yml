@@ -1,0 +1,13 @@
+# Site settings
+title: SCVO &times; Labs
+description: Using technology, data and the internet for social good at the Scottish Council for Voluntary Organisations.
+url: "http://labs.scvo.org.uk"
+permalink: /blog/:title/
+
+# Account settings
+twitter: clry2
+facebook: 509241123
+ganalytics: UA-3467930-8
+
+# Build settings
+markdown: kramdown
