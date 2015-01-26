@@ -30,7 +30,7 @@ You'll need to be entrepreneurial, a great team player, and passionate about the
 
 In return you'll get to work with like-minded peers on challenging projects that will make a real difference to people's lives.
 
-We'll be hiring people with expertise in:
+We'd love to hear from people with expertise in:
 
 - Data architecture and analytics
 - Mobile-first web development
