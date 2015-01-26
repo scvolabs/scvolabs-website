@@ -50,8 +50,8 @@ To talk about investment and partnership opportunities please [contact our direc
 
 Want to know more?
 
-[<i class="fa fa-envelope"></i>](mailto:chris.yiu@scvo.org.uk) [<i class="fa fa-linkedin"></i>](https://uk.linkedin.com/in/clry2) [<i class="fa fa-twitter"></i>](https://twitter.com/clry2) Chris Yiu, Director  
-[<i class="fa fa-envelope"></i>](mailto:susan.murray@scvo.org.uk) [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/profile/view?id=45755563) [<i class="fa fa-twitter"></i>](https://twitter.com/ramsaymurray) Susan Murray, Assistant Director
+[<i class="fa fa-fw fa-envelope"></i>](mailto:chris.yiu@scvo.org.uk) [<i class="fa fa-fw fa-linkedin"></i>](https://uk.linkedin.com/in/clry2) [<i class="fa fa-fw fa-twitter"></i>](https://twitter.com/clry2) Chris Yiu, Director  
+[<i class="fa fa-fw fa-envelope"></i>](mailto:susan.murray@scvo.org.uk) [<i class="fa fa-fw fa-linkedin"></i>](https://www.linkedin.com/profile/view?id=45755563) [<i class="fa fa-fw fa-twitter"></i>](https://twitter.com/ramsaymurray) Susan Murray, Assistant Director
 
 ### Location
 
