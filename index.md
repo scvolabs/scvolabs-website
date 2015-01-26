@@ -38,7 +38,7 @@ We'll be hiring people with expertise in:
 - Community engagement
 - Project and performance management
 
-To talk about opportunities in the team please [contact our director](mailto:chris.yiu@scvo.org.uk). You might like to include URLs for your profile  on [LinkedIn](https://linkedin.com), [GitHub](https://github.com) or other relevant networks, along with some examples of recent work that you're particularly proud of.
+To talk about opportunities in the team please [contact our director](mailto:chris.yiu@scvo.org.uk). You might like to include URLs for your profiles on [LinkedIn](https://linkedin.com), [GitHub](https://github.com) or other relevant networks, along with some examples of recent work that you're particularly proud of.
 
 ### Support our work
 
