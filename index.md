@@ -28,9 +28,9 @@ We're looking for talented people to join our team.
 
 You'll need to be entrepreneurial, a great team player, and passionate about the creative application of technology, data and the internet to solve social problems.
 
-In return you'll get to work with like-minded people on challenging projects that will make a real difference to people's lives.
+In return you'll get to work with like-minded peers on challenging projects that will make a real difference to people's lives.
 
-We're hiring people with expertise in:
+We'll be hiring people with expertise in:
 
 - Data architecture and analytics
 - Mobile-first web development
@@ -50,8 +50,8 @@ To talk about investment and partnership opportunities please [contact our direc
 
 Want to know more?
 
-[<i class="fa fa-fw fa-envelope"></i>](mailto:chris.yiu@scvo.org.uk) [<i class="fa fa-fw fa-twitter"></i>](https://twitter.com/clry2) [<i class="fa fa-fw fa-linkedin"></i>](https://uk.linkedin.com/in/clry2) Chris Yiu, Director  
-[<i class="fa fa-fw fa-envelope"></i>](mailto:susan.murray@scvo.org.uk) [<i class="fa fa-fw fa-twitter"></i>](https://twitter.com/ramsaymurray) [<i class="fa fa-fw fa-linkedin"></i>](https://www.linkedin.com/profile/view?id=45755563) Susan Murray, Assistant Director
+[<i class="fa fa-fw fa-envelope"></i>](mailto:chris.yiu@scvo.org.uk) [<i class="fa fa-fw fa-linkedin"></i>](https://uk.linkedin.com/in/clry2) [<i class="fa fa-fw fa-twitter"></i>](https://twitter.com/clry2) Chris Yiu, Director  
+[<i class="fa fa-fw fa-envelope"></i>](mailto:susan.murray@scvo.org.uk) [<i class="fa fa-fw fa-linkedin"></i>](https://www.linkedin.com/profile/view?id=45755563) [<i class="fa fa-fw fa-twitter"></i>](https://twitter.com/ramsaymurray) Susan Murray, Assistant Director
 
 ### Location
 
