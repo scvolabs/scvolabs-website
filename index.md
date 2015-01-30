@@ -38,7 +38,9 @@ We'd love to hear from people with expertise in:
 - Community engagement
 - Project and performance management
 
-To talk about opportunities please [contact our director](mailto:chris.yiu@scvo.org.uk). You might like to include URLs for your profiles on [LinkedIn](https://linkedin.com), [GitHub](https://github.com) or other relevant networks, along with some examples of recent work that you're particularly proud of.
+We don't need you to have years and years of formal experience, but we do need you to have a track record of creating great digital products or services. This could be in a business context, as part of your studies, or simply projects that you have undertaken in your own time.
+
+To talk about opportunities please [contact our director](mailto:chris.yiu@scvo.org.uk). You might like to include URLs for your profiles on [LinkedIn](https://linkedin.com), [GitHub](https://github.com) or other relevant networks, along with some examples of recent work or projects that you're particularly proud of.
 
 ### Support our work
 
@@ -50,11 +52,11 @@ We're hugely excited by all of the fantastic activity that is springing up in th
 
 ### Join our advisory board
 
-We're assembling a small group of advisors to guide our overall strategy and execution. If you have substantive experience as an entrepreneur, digital professional or third sector leader and are looking for a new way to put your experience to good use then we would be delighted to talk to you. Sound like you? [Get in touch](mailto:chris.yiu@scvo.org.uk).
+We're assembling a small group of advisors to guide our overall strategy and execution. If you have substantive experience as an entrepreneur, digital professional or third sector leader and are looking for a new way to put your experience to good use then we would be delighted to talk to you. Want to find out more? [Get in touch](mailto:chris.yiu@scvo.org.uk).
 
 ### Get in touch
 
-Want to know more? Find us here:
+Contact the team using the links below:
 
 [<i class="fa fa-fw fa-envelope"></i>](mailto:chris.yiu@scvo.org.uk) [<i class="fa fa-fw fa-twitter"></i>](https://twitter.com/clry2) [<i class="fa fa-fw fa-linkedin"></i>](https://uk.linkedin.com/in/clry2) Chris Yiu, Director  
 [<i class="fa fa-fw fa-envelope"></i>](mailto:susan.murray@scvo.org.uk) [<i class="fa fa-fw fa-twitter"></i>](https://twitter.com/ramsaymurray) [<i class="fa fa-fw fa-linkedin"></i>](https://www.linkedin.com/profile/view?id=45755563) Susan Murray, Assistant Director
