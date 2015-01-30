@@ -48,7 +48,6 @@ We're looking for support from organisations that share our passion for doing go
 
 We're hugely excited by all of the fantastic activity that is springing up in the social tech space. We believe that making things open makes them better, and want to find ways for the things we build to work well with other tools and platforms. If you already run a digital product or service and would like to talk about interoperability then please [get in touch](mailto:chris.yiu@scvo.org.uk).
 
-
 ### Join our advisory board
 
 We're assembling a small group of advisors to guide our overall strategy and execution. If you have substantive experience as an entrepreneur, digital professional or third sector leader and are looking for a new way to put your experience to good use then we would be delighted to talk to you. Sound like you? [Get in touch](mailto:chris.yiu@scvo.org.uk).

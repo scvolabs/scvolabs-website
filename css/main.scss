@@ -24,7 +24,7 @@ $h1-font-size:                    64px;
 
 $h2-font-family:                  Montserrat, sans-serif;
 $h2-font-weight:                  700;
-$h2-font-color:                   #FF6A00;
+$h2-font-color:                   #FF0066;
 $h2-font-size:                    32px;
 
 $h-font-family:                   "Droid Serif", serif;
@@ -139,12 +139,7 @@ img.logo {
 .header {
   padding-top: $spacing-unit * 2;
   padding-bottom: $spacing-unit * 2;
-  background-color: #FF6A00;
-  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFA826), to(#FF6A00));
-  background-image: -webkit-linear-gradient(top, #FFA826, #FF6A00); 
-  background-image: -moz-linear-gradient(top, #FFA826, #FF6A00);
-  background-image: -ms-linear-gradient(top, #FFA826, #FF6A00);
-  background-image: -o-linear-gradient(top, #FFA826, #FF6A00);
+  background-color: $h2-font-color;
 }
 
 .footer {
