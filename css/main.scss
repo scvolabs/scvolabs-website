@@ -20,7 +20,7 @@ $base-line-height:                1.5;
 $h1-font-family:                  Montserrat, sans-serif;
 $h1-font-weight:                  700;
 $h1-font-color:                   #FFFFFF;
-$h1-font-size:                    56px;
+$h1-font-size:                    64px;
 
 $h2-font-family:                  Montserrat, sans-serif;
 $h2-font-weight:                  700;
@@ -60,6 +60,12 @@ h1 {
   font-weight:      $h1-font-weight;
   color:            $h1-font-color;
   font-size:        $h1-font-size;
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: 48px;
+  }
 }
 
 h2 {
