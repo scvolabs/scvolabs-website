@@ -32,11 +32,11 @@ In return you'll get to work with like-minded peers on challenging projects that
 
 We'd love to hear from people with expertise in:
 
-- Mobile-first web development
-- Data architecture and analytics
+- Back-end web development
+- Front-end, mobile-first web development
+- Data architecture, open data and analytics
 - UX design and research
-- Community engagement
-- Project and performance management
+- Community engagement and outreach
 
 We don't need you to have years and years of formal experience, but we do need you to have a track record of creating great digital products or services. This could be in a business context, as part of your studies, or simply projects that you have undertaken in your own time.
 
