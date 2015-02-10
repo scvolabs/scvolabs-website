@@ -32,7 +32,7 @@ In return you'll get to work with like-minded peers on challenging projects that
 
 We'd love to hear from people with expertise in:
 
-- Back-end web development
+- Back-end web development and large, scalable services
 - Front-end, mobile-first web development
 - Data architecture, open data and analytics
 - UX design and research
