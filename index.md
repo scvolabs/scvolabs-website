@@ -8,13 +8,13 @@ layout: front
 
 We think that technology, data and the internet are the key to unlocking a revolution in the way that people get involved in their communities and join in with the charities and causes that they care about.
 
-We believe everybody has something to contribute, so we're focusing on how [platform thinking](http://www.wired.com/2014/01/platform-thinking-approach-innovation/) can redefine social problems and make radical new solutions possible.
+We believe everybody in society has something to contribute, so we're focusing on how [platform thinking](http://www.wired.com/2014/01/platform-thinking-approach-innovation/) can redefine social problems and make radical new solutions possible.
 
-We know that the best way to make change happen is to stop talking and start doing, so we're developing some exciting new digital projects with huge potential to do good. Our first projects are currently in stealth mode whilst we take the first steps on design and prototyping.
+We know that the best way to make change happen is to stop talking and start doing, so we're developing some exciting new digital products with huge potential to do good. The first of these are currently in stealth mode whilst we take the first steps on design and prototyping.
 
 ### How we work
 
-We're part of the [Scottish Council for Voluntary Organisations](http://www.scvo.org.uk).  Unlike other projects, we're structured and [run like a startup](http://theleanstartup.com/principles). This gives us the space we need to try new things and to give our users our complete attention.
+We're part of the [Scottish Council for Voluntary Organisations](http://www.scvo.org.uk). Unlike other projects, we're structured and [run like a startup](http://theleanstartup.com/principles). This gives us the space we need to try new things and to give our users our complete attention.
 
 We're inspired by those who put bravery and creativity before playing it safe, and who won't settle for 10 per cent better when 10 times better is possible.
 
@@ -28,7 +28,7 @@ We're on the lookout for talented people.
 
 You'll need to be entrepreneurial, a great team player, and passionate about the creative application of technology, data and the internet to solve social problems.
 
-In return you'll get to work with like-minded peers on challenging projects that will make a real difference to people's lives.
+In return you'll get to work with motivated, like-minded peers and help build products that will make a real difference to people's lives.
 
 We'd love to hear from people with expertise in:
 
