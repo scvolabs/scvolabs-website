@@ -32,7 +32,7 @@ In return you'll get to work with motivated, like-minded peers and help build pr
 
 We'd love to hear from people with expertise in:
 
-- Full stack web development, including [PHP](http://php.net/), [MySQL](http://www.mysql.com/) and mobile-first front end frameworks
+- Full stack web development, including [PHP](http://php.net/), [MySQL](http://www.mysql.com/) and front end frameworks
 - [Linked data](http://www.w3.org/standards/semanticweb/data) and the [semantic web](http://www.w3.org/standards/semanticweb/)
 - [UX design](http://en.wikipedia.org/wiki/User_experience_design) and research
 - Community engagement and outreach
