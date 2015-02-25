@@ -24,7 +24,7 @@ And with a bit of luck, we're [just crazy enough](http://www.wired.com/2013/02/m
 
 ### Join us
 
-We're looking for talented people to join our team.
+We're on the lookout for talented people.
 
 You'll need to be entrepreneurial, a great team player, and passionate about the creative application of technology, data and the internet to solve social problems.
 
@@ -32,10 +32,9 @@ In return you'll get to work with like-minded peers on challenging projects that
 
 We'd love to hear from people with expertise in:
 
-- Back-end web development and large, scalable services
-- Front-end, mobile-first web development
-- Data architecture, open data and analytics
-- UX design and research
+- Full stack web development, including common rapid prototyping frameworks
+- [Linked data](http://www.w3.org/standards/semanticweb/data) and the [semantic web](http://www.w3.org/standards/semanticweb/)
+- [UX design](http://en.wikipedia.org/wiki/User_experience_design) and research
 - Community engagement and outreach
 
 We don't need you to have years and years of formal experience, but we do need you to have a track record of creating great digital products or services. This could be in a business context, as part of your studies, or simply projects that you have undertaken in your own time.
