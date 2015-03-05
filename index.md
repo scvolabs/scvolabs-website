@@ -22,7 +22,7 @@ We like to think big, start small and move fast.
 
 And with a bit of luck, we're [just crazy enough](http://www.wired.com/2013/02/moonshots-matter-heres-how-to-make-them-happen/) to have a shot at succeeding.
 
-### Internships
+### Internship opportunity
 
 We have an exciting opportunity for someone with an interest in how digital tools can be used for social good to join us on a six-week paid internship. You'll help us to research and review existing social tech ventures, and map out how people and organisations are already using the web, games and apps to support good causes around the world.
 
