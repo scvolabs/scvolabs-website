@@ -28,6 +28,8 @@ We have an exciting opportunity for someone with an interest in how digital tool
 
 This opportunity is part of a wider SCVO employability and business growth programme. To find out more about our opportunity please visit the [programme page](http://digital.scvo.org.uk/internships/), click the "view vacancies" button, and then use the keyword **SCVO**.
 
+*Please note that this vacancy is only available through SCVO's Business Growth Graduate Internship programme. Applicants must meet specific eligibility criteria. Application can only be made via your local Jobcentre Plus personal adviser.*
+
 ### Join us
 
 We're on the lookout for talented people.
