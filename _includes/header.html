@@ -1,1 +1,17 @@
+{% assign current = page.url | downcase | split: '/' %}
 
+<div class="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+      
+        <a href="/">{{ site.title }}</a>
+        
+        {% if current[1] != "index.html" %}
+          &raquo; <a href="/{{ current[1] }}/">{{ current[1] | capitalize}}</a>
+        {% endif %}
+        
+      </div>
+    </div>
+  </div>
+</div>
