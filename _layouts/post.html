@@ -14,6 +14,8 @@ layout: default
       
       <p><small>&mdash; by {% if page.authorlink %}<a href="{{ page.authorlink }}">{{ page.author }}</a>{% else %}{{ page.author }}{% endif %} on {{ page.date | date: "%d %B %Y" }}</small></p>
       
+      {% include social-buttons.html %}
+      
       {% if page.image %}
         <p><img src="{{ page.image }}" /></p>
       {% endif %}      
