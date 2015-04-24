@@ -14,7 +14,7 @@ We're a friendly bunch with diverse backgrounds and a common purpose. Come say h
 
 ### Labs advisors
 
-
+- Ally Tibbitt [@allytibbitt](https://twitter.com/allytibbitt)
 - Cat Macaulay [@operanomad](https://twitter.com/operanomad)
 - Graham Curran [@grahamrcurran](https://twitter.com/grahamrcurran)
 - Raymond O'Hare
