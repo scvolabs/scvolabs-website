@@ -15,7 +15,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.excerpt | xml_escape }}</description>
-        <dc:creator>{{ post.author | xml_escape }}</dc:creator>
+        <author>{{ post.author | xml_escape }}</author>
         <content type="html">{{ post.content | xml_escape }}</content>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
