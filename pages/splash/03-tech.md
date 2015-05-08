@@ -11,6 +11,7 @@ Here are some of our favourite tools and frameworks:
 
 <a href="http://php.net/" class="btn btn-default">PHP</a> 
 <a href="https://www.ruby-lang.org/en/" class="btn btn-default">Ruby</a> 
+<a href="https://www.java.com/" class="btn btn-default">Java</a>
 <a href="https://www.mysql.com/" class="btn btn-default">MySQL</a> 
 <a href="http://json.org/" class="btn btn-default">JSON</a> 
 <a href="http://www.w3.org/TR/html/" class="btn btn-default">HTML5</a> 
