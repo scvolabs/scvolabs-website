@@ -15,7 +15,7 @@ As far as I can make out, for a lot of people agile means one of two things:
 1. A word you chuck in as an excuse for not managing a project properly
 2. Whiteboards!
 
-Happily, doing our work in the middle of a big open plan office is a great opportunity to get stuck into a bit of show, don't tell. So whilst we do indeed have the whiteboards up (and jolly pretty they are too, I reckon we can give [the MGS team](http://inside.mygov.scot/2015/04/28/our-approach-to-agile-and-kanban/) a run for their money), they are very much a tool for managing our project well and making our approach visible to those around us.
+Happily, doing our work in the middle of a big open plan office is a great opportunity to get stuck into a bit of [show, don't tell](http://agile.dzone.com/articles/show-dont-tell-persuade-dont). So whilst we do indeed have the whiteboards up (and jolly pretty they are too, I reckon we can give [the MGS team](http://inside.mygov.scot/2015/04/28/our-approach-to-agile-and-kanban/) a run for their money), they are very much a tool for managing our project well and making our approach visible to those around us.
 
 We're using the [scrum methodology](http://en.wikipedia.org/wiki/Scrum_%28software_development%29), about which much has been written already (try [here](http://www.agilelearninglabs.com/resources/scrum-introduction/), [here](http://www.allaboutagile.com/how-to-implement-scrum-in-10-easy-steps/) and [here](https://www.gov.uk/service-manual/agile)) so I won't go over all the detail. Suffice to say we're adapting it for our needs, and that the main building blocks in our world are:
 
