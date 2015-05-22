@@ -8,7 +8,7 @@ excerpt: Now, what's with all these whiteboards invading SCVO HQ?
 image: img_1521.jpg
 ---
 
-The driving ambition for [SCVO Labs](http://labs.scvo.org.uk/) is to bring [platform thinking](http://www.wired.com/2014/01/platform-thinking-approach-innovation/) to bear on people's engagement with civil society and good causes in Scotland. But on the way there we're also testing out new ways of working for an organisation like [SCVO](http://www.scvo.org.uk). In particular, we're embracing an agile approach for getting stuff done.
+The driving ambition for [SCVO Labs](http://labs.scvo.org.uk/) is to bring [platform thinking](http://www.wired.com/2014/01/platform-thinking-approach-innovation/) to bear on people's engagement with civil society and good causes in Scotland. But on the way there we're also testing out new ways of working for an organisation like [SCVO](http://www.scvo.org.uk). In particular, we're embracing an agile approach to getting stuff done.
 
 As far as I can make out, for a lot of people agile means one of two things:
 
