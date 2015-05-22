@@ -16,10 +16,6 @@ layout: default
       
       {% include social-buttons.html %}
       
-      {% if page.image %}
-        <p><img src="{{ page.image }}" /></p>
-      {% endif %}      
-      
     </div>
   </div>
 </div>
@@ -28,6 +24,10 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-md-12">
+      
+        {% if page.image %}
+          <img src="/images/{{ page.image }}" class="postimg" />
+        {% endif %}      
 
         {{ content }}
         
