@@ -160,9 +160,9 @@ article:not(:first-child) {
   margin-bottom: $spacing-unit * 2;
 }
 
-hr.posthr {
-  margin-top: $spacing-unit * 1.5;
-  margin-bottom: $spacing-unit * 1.5;
+.postdiv {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
 }
 
 
