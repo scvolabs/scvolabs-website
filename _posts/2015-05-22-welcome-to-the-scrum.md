@@ -5,6 +5,7 @@ author: Chris
 authorlink: https://twitter.com/clry2
 title: Welcome to the scrum
 excerpt: Now, what's with all these whiteboards invading SCVO HQ?
+tags: agile scrum whiteboards workspace
 image: img_1521.jpg
 ---
 

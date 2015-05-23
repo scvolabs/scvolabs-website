@@ -1,17 +1,25 @@
-{% assign current = page.url | downcase | split: '/' %}
-
-<div class="header">
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
   <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-      
-        <a href="/">{{ site.title }}</a>
-        
-        {% if current[1] != "index.html" %}
-          &raquo; <a href="/{{ current[1] }}/">{{ current[1] | capitalize}}</a>
-        {% endif %}
-        
-      </div>
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">SCVO Labs</a>
     </div>
+    
+    {% assign current = page.url | downcase | split: '/' %}
+    
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+    
+      <ul class="nav navbar-nav">
+        <li{% if current[1] == "blog" %} class="active"{% endif %}><a href="/blog/">Blog</a></li>       
+      </ul>        
+
+    </div>
+    
   </div>
 </div>

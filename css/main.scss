@@ -57,12 +57,6 @@ h1 {
   color:            $brand-color;
 }
 
-@media screen and (max-width: 767px) {
-  h1 {
-    font-size: 48px;
-  }
-}
-
 h2 {
   font-weight:      $h2-font-weight;
   font-size:        $h2-font-size;
@@ -72,13 +66,41 @@ h2 {
 
 h3, h4, h5, h6 {
   font-weight:      $h-font-weight;
-  color:        $base-color-dark;
+  color:            $base-color-dark;
 }
 
 .lead {
   color: $brand-color;
   font-size: 150%;
  }
+
+.pager {
+  font-size: 15px;
+}
+ 
+ 
+ 
+// Jumbotron
+
+.jumbotron {
+  margin-top: -20px;
+  margin-bottom: $spacing-unit * 2;
+  background-color: $brand-color;
+  
+  h1 {
+    font-family:      $h1-font-family;
+    font-weight:      $h1-font-weight;
+    font-size:        $h1-font-size;
+    color:            #FFFFFF;
+  }
+  
+  .lead {
+    margin-bottom:    $spacing-unit;
+    color:            #FFFFFF;
+    font-size:        150%;
+  }
+  
+}
 
  
 
@@ -101,17 +123,19 @@ a:hover fa {
 // Spacing
 
 h1 {
-  margin-top: $spacing-unit * 3;
-  margin-bottom: $spacing-unit * 3;
-}
-
-h2 {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
 
-h3 {
+h2 {
   margin-top: $spacing-unit * 2;
+  margin-bottom: $spacing-unit;
+  padding-top: $spacing-unit * 2;
+  border-top: 1px solid #F0F0F0;
+}
+
+h3 {
+  margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
 
@@ -119,12 +143,21 @@ h4, h5, h6 {
   margin-top: $spacing-unit;
 }
 
+.lead {
+  margin-bottom: $spacing-unit;
+}
+
 .btn {
   margin-top: $spacing-unit / 3;
 }
 
-.comments {
+article:not(:first-child) {
+  padding-top: $spacing-unit;
+}
+
+#disqus_thread {
   margin-top: $spacing-unit * 2;
+  margin-bottom: $spacing-unit * 2;
 }
 
 
@@ -145,48 +178,35 @@ img.postimg {
 }
 
 
-// Sections
 
-.stripe {
-  padding-top: $spacing-unit;
-  padding-bottom: $spacing-unit * 2;
-}
-
-.stripe:nth-of-type(even) {
-  background-color: #FCFCFC;
-}
-
-
-
-// Blog sections
-
-article {
-  padding-top: $spacing-unit;
-  padding-bottom: $spacing-unit;
-}
-
-
-
-// Header and footer
-
-.header {
-  padding-top: $spacing-unit / 3;
-  padding-bottom: $spacing-unit / 3;
-  background-color: $brand-color;
-  color: #FFFFFF;
-  
-  a {
-    font-weight: 700;
-    color: #FFFFFF;
-  }
-  
-}
+// Footer
 
 .footer {
-  margin-top: 0;
+  margin-top: $spacing-unit * 2;
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit / 2;
   background-color: #333333;
   color: #CCCCCC;
   line-height: 1.2;
+}
+
+
+// Mobile optimisation
+
+@media screen and (max-width: 767px) {
+
+  .jumbotron {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  h1, .jumbotron h1 {
+    font-size: 56px;
+  }
+  
+  .lead, .jumbotron .lead {
+    font-size: 125%;
+  }
+
+  
 }

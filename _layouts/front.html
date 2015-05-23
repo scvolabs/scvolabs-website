@@ -2,33 +2,26 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-    
-      <h1>{{ site.title }}</h1>
-      <p class="lead">{{ site.description }}</p>
+<div class="jumbotron">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+
+        <h1>{{ site.title }}</h1>
       
+        <p class="lead">{{ site.description }}</p>
+      
+      </div>
     </div>
   </div>
 </div>
 
-{% for page in site.pages %}
-  {% if page.splash %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
 
-    <div class="stripe">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-          
-            <h2>{{ page.title }}</h2>
-          
-            {{ page.content }}
-          
-          </div>
-        </div>
-      </div>
+      {{ content }}
+      
     </div>
-    
-  {% endif %}
-{% endfor %}
+  </div>
+</div>

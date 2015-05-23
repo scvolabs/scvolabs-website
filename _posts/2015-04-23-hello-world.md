@@ -5,6 +5,7 @@ author: Chris
 authorlink: https://twitter.com/clry2
 title: Hello world!
 excerpt: Here comes our blog, we hope you like awesome things.
+tags: digital open
 image: 
 ---
 

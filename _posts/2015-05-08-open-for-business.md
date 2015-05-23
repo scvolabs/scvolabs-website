@@ -5,6 +5,7 @@ author: Chris
 authorlink: https://twitter.com/clry2
 title: Open for business
 excerpt: Our quest to harness digital platforms for social good is underway.
+tags: digital social agile userneeds platform
 image: 
 ---
 
