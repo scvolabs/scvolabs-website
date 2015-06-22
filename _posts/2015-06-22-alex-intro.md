@@ -8,9 +8,7 @@ excerpt: My first month on the job.
 tags: digital open
 image: 
 ---
-#New Job!
-
-Hi, this is Alex, lead developer on SCVO Labs. Nice to meet you!
+##Hi, this is Alex, lead developer on SCVO Labs. Nice to meet you!
 
 For the last few weeks I've been building a prototype of the underlying system which the SCVO Labs app will be running on.
 
