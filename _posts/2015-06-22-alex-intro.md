@@ -20,3 +20,5 @@ It all works quite nicely, but we're wanting to keep looking around, to ensure w
 
 1. Could we make everything simpler? Javascript and one of Amazon's databases talk in the same language, JSON. Maybe it would be faster and easier if we made everything talk in this language?
 2. There's a new type of database called a Graph Database, which is better at handling complicated networked relationships than a standard SQL Database. Given the very connected communities involved in charities, can we use this technology to give us powerful data?
+
+This is a fascinating opportunity to learn about some really modern stuff, and I'm really looking forward to it. It'll be interesting to see what advantages the newer technologies add in comparison to some of the older, more established stuff.
