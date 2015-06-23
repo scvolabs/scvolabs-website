@@ -12,7 +12,7 @@ Hi, this is Alex, lead developer on SCVO Labs. Nice to meet you!
 
 For the last few weeks I've been building a prototype of the underlying system which the SCVO Labs app will be running on.
 
-I'm a Java developer by history, and this is my first time doing full-stack development (i.e. I do all of it, from making the servers work, to ensuring that the Project logo on the website is exactly the right shade of purple), so it's a challenging project, and I'm learning loads!
+I'm a Java developer by history, and this is my first time doing full-stack development (i.e. I do all of it, from making the servers work, to ensuring that the project logo on the website is exactly the right shade of purple), so it's a challenging project, and I'm learning loads!
 
 So far, I've built a prototype based on Angular JS, Java and SQL, and running on Amazon's "AWS" distributed server platform. 
 
