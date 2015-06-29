@@ -9,7 +9,7 @@ tags: product platform digital participation labs
 image: 
 ---
 
-At the moment the SCVO labs team is small but we have big ambitions. A participation revolution.
+At the moment the SCVO labs team is small but we have big ambitions: a participation revolution.
 
 ### In a nutshell
 
