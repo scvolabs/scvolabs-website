@@ -11,18 +11,15 @@ image:
 
 At the moment the SCVO labs team is small but we have big ambitions: a participation revolution.
 
-### In a nutshell
-
 > *We're building a place for people to share their stories about charities and good causes in Scotland.*
 
-I'm passionate about the project and excited about our approach. But I feel like I'm playing catch up before before we've really got started. As a team, we committed to blog as we go but so far I've not managed it! 
+I'm passionate about the project and excited about our approach. However, I feel like I'm playing catch up before we've really got started - as a team, we committed to blog as we go and so far I've not managed it! 
 
 My part in the labs team is on top of my normal role at SCVO.  There is some cross-over but still not enough hours in the day.  Unlike Mr Yiu, I need sleep.
 
-I'm using lots new tools for the first time including google drive, Slack and GitHub, and picking them up as I go - hopefully!
+I'm also learning lots of new tools for the first time such as google drive, Slack and GitHub. 
 
-So tonight is Friday night, I'm babysitting for a friend's children and I've just read Chris's [live blog](http://yiu.co.uk/blog/nd15-live-blog/) from Digital Leaders conference 
-There is so much in it that's of relevance I'm driven to pick up my iPad and get my first SCVO labs blog online.
+So tonight is Friday night, I'm babysitting for a friend's children and I've just read Chris's [live blog](http://yiu.co.uk/blog/nd15-live-blog/) from Digital Leaders conference. There is so much in it that's of relevance I'm driven to pick up my iPad and get my first Labs blog online.
 
 But I'm well aware I'm lucky.  It's my own device and I work for an organisation that enables me to have remote access.  
 
