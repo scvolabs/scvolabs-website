@@ -9,7 +9,7 @@ tags: product platform digital participation labs
 image: 
 ---
 
-At the moment the SCVO labs team is small but we have big ambitions, put simply a participation revolution.
+At the moment the SCVO labs team is small but we have big ambitions, put simply, a participation revolution.
 
 > *We're building a place for people to share their stories about charities and good causes in Scotland.*
 
