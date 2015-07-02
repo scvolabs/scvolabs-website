@@ -30,7 +30,7 @@ Even though I know there are some fake reviews, I still read them.  It’s becom
 
 Giving feedback online on products and services I have purchased has also become part of my psyche.  I love the fact the openness of the internet and fast feedback through public reviews influences retailers and service providers to improve and change behaviour.
 
-Feedback via the internet has turned on its head the old studies that showed that a satisfied customer will tell an average of 3 people about their experience. A dissatisfied one will share their experience with an average of 8 to 10 people.
+Feedback via the internet has turned the old study on its head that showed that a satisfied customer will tell three people about their experience whereas a dissatisfied one will share their experience with ten people.
 
 Organisations now have to be responsive to feedback and be seen to promptly implement learning because complaints can quickly go viral.
 
