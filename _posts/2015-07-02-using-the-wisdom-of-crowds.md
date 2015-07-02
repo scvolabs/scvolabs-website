@@ -24,7 +24,9 @@ Reviews and rating have become big business.  Apparently there is a new industry
 
 Even crowd-sourced encyclopaedia, Wikipedia, has had its integrity called into question with fake data.  Earlier this year Tory MP Grant Shapp was accused of [creating a fake identity to edit his own Wikipedia page](http://metro.co.uk/2015/04/22/tory-mp-accused-of-creating-fake-online-identity-to-edit-his-own-wikipedia-page-5161085/).
 
-Even though I know there are some fake reviews, I still read them.  It’s become part of my decision making process before purchasing goods, even when I am not buying online. There is a certain amount of conscious and subconscious filtering but reviews most definitely influence my behaviour.
+Even though I know there are some fake reviews, I still read them.  It’s become part of my decision making process before purchasing goods, even when I am not buying online. There is a certain amount of conscious and subconscious filtering but reviews most definitely influence my behaviour. And [research shows](http://www.bbc.co.uk/news/business-33205905) I am not alone.
+
+> *Restaurants which increase their ranking on tripadvisor by one star raise revenue by 5-9%
 
 Giving feedback online on products and services I have purchased has also become part of my psyche.  I love the fact the openness of the internet and fast feedback through public reviews influences retailers and service providers to improve and change behaviour.
 
