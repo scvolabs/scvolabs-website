@@ -26,16 +26,16 @@ Even crowd-sourced encyclopaedia, Wikipedia, has had its integrity called into q
 
 Even though I know there are some fake reviews, I still read them.  It’s become part of my decision making process before purchasing goods, even when I am not buying online. There is a certain amount of conscious and subconscious filtering but reviews most definitely influence my behaviour. And [research shows](http://www.bbc.co.uk/news/business-33205905) I am not alone.
 
-> *Restaurants which increase their ranking on tripadvisor by one star raise revenue by 5-9%
+> *Restaurants which increase their ranking on tripadvisor by one star raise revenue by 5-9%*
 
 Giving feedback online on products and services I have purchased has also become part of my psyche.  I love the fact the openness of the internet and fast feedback through public reviews influences retailers and service providers to improve and change behaviour.
 
-Feedback via the internet has turned on its head the old studies that showed  that a satisfied customer will tell 2-3 people about their experience. A dissatisfied consumer will share their experience  with 8-10 people and some even reach beyond 20.
+Feedback via the internet has turned on its head the old studies that showed that a satisfied customer will tell an average of 3 people about their experience. A dissatisfied one will share their experience with an average of 8 to 10 people.
 
 Organisations now have to be responsive to feedback and be seen to promptly implement learning because complaints can quickly go viral.
 
-Even feedback through traditional means like letters can go viral.  One of my favourite examples is the 2008 [Complaint Letter to Richard Branson](http://www.telegraph.co.uk/travel/travelnews/4344890/Virgin-the-worlds-best-passenger-complaint-letter.html) and was still appearing in full in mainstream newspaper articles last year.
+Even feedback through traditional means like letters can go viral.  One of my favourite examples is the 2008 [Complaint Letter to Richard Branson](http://www.telegraph.co.uk/travel/travelnews/4344890/Virgin-the-worlds-best-passenger-complaint-letter.html) which was still appearing in full in mainstream newspaper articles last year.
  
-Giving and receiving feedback openly is now part of so many aspects of our lives – I feel a kind of duty to participate when I have something to say so I add my wisdom to the crowd to help others.  
+Open feedback is now part of so many aspects of our lives. I feel a kind of duty to participate when I have something to say so I add my wisdom to the crowd to help others.  
 
 Is this part of the participation revolution?  How could we better harness the power of feedback for charities and voluntary organisations?
