@@ -22,9 +22,9 @@ Sharing is caring, so you'll find insights from what we're up to on [our blog](/
 
 ### A feedback platform for charities and good causes
 
-Our first product is a feedback platform for charities and good causes in Scotland. We want to make it easier for people to talk about their experiences with charities and good causes, to celebrate all the good things that are happening in civil society in Scotland, and share authentic, meaningful and open feedback as a way to encourage improvement. In the process, we also hope to make it easier for others to find out about charities and good causes they might be interested in, and to see what people are saying about them.
+_The current status of this product is: **pre-release**._
 
-The current status of this product is: **pre-release**.
+Our first product is a feedback platform for charities and good causes in Scotland. We want to make it easier for people to talk about their experiences with charities and good causes, to celebrate all the good things that are happening in civil society in Scotland, and share authentic, meaningful and open feedback as a way to encourage improvement. In the process, we also hope to make it easier for others to find out about charities and good causes they might be interested in, and to see what people are saying about them.
 
 We'll post a link here when we have a reasonably stable alpha product that's ready for wider testing.
 
