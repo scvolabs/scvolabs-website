@@ -20,9 +20,13 @@ Sharing is caring, so you'll find insights from what we're up to on [our blog](/
 
 ## Products
 
-Our first products are currently in stealth mode.
+### A feedback platform for charities and good causes
 
-We're excited about our plans, and will be posting more details when we're ready.
+Our first product is a feedback platform for charities and good causes in Scotland. We want to make it easier for people to talk about their experiences with charities and good causes, to celebrate all the good things that are happening in civil society in Scotland, and share authentic, meaningful and open feedback as a way to encourage improvement. In the process, we also hope to make it easier for others to find out about charities and good causes they might be interested in, and to see what people are saying about them.
+
+The current status of this product is: **pre-release**.
+
+We'll post a link here when we have a reasonably stable alpha product that's ready for wider testing.
 
 
 
@@ -32,17 +36,16 @@ We're using modern technologies and an agile approach to build rich, mobile-firs
 
 Here are some of our favourite tools and frameworks:
 
-<a href="http://php.net/" class="btn btn-default">PHP</a> 
-<a href="https://www.ruby-lang.org/en/" class="btn btn-default">Ruby</a> 
-<a href="https://www.java.com/" class="btn btn-default">Java</a>
-<a href="https://www.mysql.com/" class="btn btn-default">MySQL</a> 
-<a href="http://json.org/" class="btn btn-default">JSON</a> 
-<a href="http://www.w3.org/TR/html/" class="btn btn-default">HTML5</a> 
-<a href="http://www.w3.org/TR/CSS/" class="btn btn-default">CSS3</a> 
-<a href="http://getbootstrap.com/" class="btn btn-default">Bootstrap</a> 
+<a href="http://aws.amazon.com/" class="btn btn-default">AWS</a> 
+<a href="https://nodejs.org/" class="btn btn-default">Node.js</a> 
+<a href="http://neo4j.com/" class="btn btn-default">Neo4j</a> 
+<a href="http://json.org/" class="btn btn-default">JSON</a>
 <a href="https://jquery.com/" class="btn btn-default">jQuery</a> 
 <a href="https://angularjs.org/" class="btn btn-default">Angular.js</a> 
-<a href="https://github.com/" class="btn btn-default">GitHub</a> 
+<a href="http://www.w3.org/TR/html/" class="btn btn-default">HTML5</a> 
+<a href="http://www.w3.org/TR/CSS/" class="btn btn-default">CSS3</a> 
+<a href="http://sass-lang.com/" class="btn btn-default">SASS</a> 
+<a href="http://getbootstrap.com/" class="btn btn-default">Bootstrap</a> 
 
 
 
