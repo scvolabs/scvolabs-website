@@ -17,7 +17,7 @@ From here on out on I'll post an update after each sprint with a summary of what
 
 Done (technical):
 
-* Prototype product running on a local and remote [LAMP stack](http://stackoverflow.com/questions/10060285/what-is-a-lamp-stack)
+* Proof-of-concept running on a local and remote [LAMP stack](http://stackoverflow.com/questions/10060285/what-is-a-lamp-stack)
 * Explored / evaluated [Azure](http://azure.microsoft.com/en-gb/) environment
 * Explored / evaluated [Amazon Web Services](http://aws.amazon.com/) environment
 
@@ -32,7 +32,7 @@ Done (technical):
 * Refactored front end using [Twitter Bootstrap](http://getbootstrap.com/) and [Angular.js](https://angularjs.org/)
 * Abstracted database calls to an API layer
 * Initialised a project repository on [GitHub](https://github.com/) (private for now)
-* Deployed a proof-of-concept version to a test environment
+* Deployed a prototype version to a test environment
 
 Done (non-technical):
 
