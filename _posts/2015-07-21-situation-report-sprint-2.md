@@ -15,33 +15,33 @@ From here on out on I'll post an update after each sprint with a summary of what
 
 ### Sprint 0
 
-Done (technical):
+#### Done (technical):
 
 * Proof-of-concept running on a local and remote [LAMP stack](http://stackoverflow.com/questions/10060285/what-is-a-lamp-stack)
 * Explored / evaluated [Azure](http://azure.microsoft.com/en-gb/) environment
 * Explored / evaluated [Amazon Web Services](http://aws.amazon.com/) environment
 
-Done (non-technical):
+#### Done (non-technical):
 
 * First pass at our strategy template and business model canvas
 
 ### Sprint 1
 
-Done (technical):
+#### Done (technical):
 
 * Refactored front end using [Twitter Bootstrap](http://getbootstrap.com/) and [Angular.js](https://angularjs.org/)
 * Abstracted database calls to an API layer
 * Initialised a project repository on [GitHub](https://github.com/) (private for now)
 * Deployed a prototype version to a test environment
 
-Done (non-technical):
+#### Done (non-technical):
 
 * Reviewed existing platforms for (a) reviews / ratings and (b) charities / good causes
 * First iteration of user personas
 
 ### Sprint 2
 
-Done (technical):
+#### Done (technical):
 
 * Refactored back end using [Node.js](https://nodejs.org/)
 * Migrated from a relational database to a [graph database](https://en.wikipedia.org/wiki/Graph_database)
@@ -50,13 +50,13 @@ Done (technical):
 * Acquired a production domain and implemented [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 * Deployed a pre-release version to a production environment
 
-Done (non-technical):
+#### Done (non-technical):
 
 * Iterated our strategy template and business model canvas
 * Second iteration of user personas
 * Fieldwork with general public on core concept
 
-Next:
+#### Next:
 
 * Face-to-face conversations with various stakeholders to get their input and reactions to the pre-release product
 * A whole bunch of refinements, bug fixes and stress-testing on the product to get it ready for an Alpha release
