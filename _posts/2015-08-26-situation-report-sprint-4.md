@@ -6,7 +6,7 @@ authorlink: https://twitter.com/clry2
 title: Situation report, Sprint 4
 excerpt: It's all about the user journeys. And dashboards, of course
 tags: product sprint
-image: IMG_1748.JPG
+image: 
 ---
 
 Here's the latest roundup of progress over the last fortnight. Pretty much all of our MVP features are in place, and we're starting to send out invites to our sandbox environment for a small number of people to begin exploring. The next sprint is mainly technical consolidation to get our code from functional to something ready for a public alpha.
