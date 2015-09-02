@@ -4,7 +4,7 @@ date: 2015-08-26
 author: Chris
 authorlink: https://twitter.com/clry2
 title: Situation report, Sprint 4
-excerpt: It's all about the user journeys. And dashboards, of course
+excerpt: It's all about the user journeys. And dashboards, of course.
 tags: product sprint
 image: 
 ---

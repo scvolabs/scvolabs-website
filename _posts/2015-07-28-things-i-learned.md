@@ -4,7 +4,7 @@ date: 2015-07-28
 author: Hoyam
 authorlink: 
 title: Things I learned
-excerpt: Looking back on my digital internship at SCVO
+excerpt: Looking back on my digital internship at SCVO.
 tags: digital internship research
 image: 
 ---
