@@ -20,13 +20,15 @@ Sharing is caring, so you'll find insights from what we're up to on [our blog](/
 
 ## Products
 
-### A feedback platform for charities and good causes
+### [Good HQ](https://goodhq.org): A feedback platform for charities and good causes
+
+<div class="mockups"><img src="/images/mockup1.png" alt="" /> <img src="/images/mockup2.png" alt="" /></div>
 
 _The current status of this product is: **pre-release**._
 
 Our first product is a feedback platform for charities and good causes in Scotland. We want to make it easier for people to talk about their experiences with charities and good causes, to celebrate all the good things that are happening in civil society in Scotland, and share authentic, meaningful and open feedback as a way to encourage improvement. In the process, we also hope to make it easier for others to find out about charities and good causes they might be interested in, and to see what people are saying about them.
 
-We'll post a link here when we have a reasonably stable alpha product that's ready for wider testing.
+Please note sign up is currently restricted to a limited number of pre-approved users. We'll post an update here as soon as our public alpha release is live.
 
 
 
@@ -58,6 +60,7 @@ We're a friendly bunch with diverse backgrounds and a common purpose. Come say h
 - Chris Yiu [@clry2](https://twitter.com/clry2)
 - Susan Murray [@ramsaymurray](https://twitter.com/ramsaymurray)
 - Alex Nuttgens [@anuttgens](https://twitter.com/anuttgens)
+- James Williams
 
 ### Labs advisors
 
