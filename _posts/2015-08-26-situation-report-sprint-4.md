@@ -9,7 +9,7 @@ tags: product sprint
 image: 
 ---
 
-Here's the latest roundup of progress over the last fortnight. Pretty much all of our MVP features are in place, and we're starting to send out invites to our sandbox environment for a small number of people to begin exploring. The next sprint is mainly technical consolidation to get our code from functional to something ready for a public alpha.
+Here's the latest roundup of progress over the last fortnight. Pretty much all of our MVP features are in place, and we're starting to send out invites to our sandbox environment for a small number of people to begin exploring. The next sprint is mainly technical consolidation to get our code from functional to something ready for a slightly wider release.
 
 #### Done (technical):
 
