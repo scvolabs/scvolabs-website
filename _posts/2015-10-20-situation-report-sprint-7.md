@@ -4,7 +4,7 @@ date: 2015-10-20
 author: Chris
 authorlink: https://twitter.com/clry2
 title: Situation report, Sprint 7
-excerpt: Location, location, location
+excerpt: Location, location, location.
 tags: product sprint
 image: 
 ---
