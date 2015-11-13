@@ -9,7 +9,7 @@ tags: product sprint
 image: home.png
 ---
 
-This is something of a milestone update: our alpha product is pretty much feature complete, and we are now accepting signups from anyone who is interested in taking the product for a spin. Head over to the [Good HQ](https://goodhq.org) homepage, hit *sign up* to get started, and then let us know how you get on!
+This is something of a milestone update: our alpha product is close to feature complete, and we are now accepting signups from anyone who is interested in taking the product for a spin. Head over to the [Good HQ](https://goodhq.org) homepage, hit *sign up* to get started, and then let us know how you get on!
 
 #### Done (technical):
 
