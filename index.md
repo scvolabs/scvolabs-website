@@ -20,14 +20,17 @@ Sharing is caring, so you'll find insights from what we're up to on [our blog](/
 
 ## Products
 
-### [Good HQ](https://goodhq.org): A feedback platform for charities and good causes
+### Good HQ
 
-_The current status of this product is: **alpha**._
+[Good HQ](https://goodhq.org) is a feedback platform for charities and good causes in Scotland.
 
-<img src="/images/mockup1.png" class="mockup" alt="" /> <img src="/images/mockup2.png" class="mockup" alt="" />
+We're building it to do three things:
 
-Good HQ is a feedback platform for charities and good causes in Scotland. We want to make it easier for people to talk about their experiences with charities and good causes, to celebrate all the good things that are happening in civil society in Scotland, and share authentic, meaningful and open feedback as a way to encourage improvement. By enabling this, we also hope to make it easier for others to find out about charities and good causes they might be interested in, and to see what people are saying about them.
+* To help charities and good causes gather feedback about what they're doing well and how they could improve
+* To empower people who want to share their experiences with charities and good causes for the benefit of others
+* To make it easier for people who want to get involved to find out what's happening and what people are saying
 
+The current status of this product is: **alpha**
 
 
 ## Technologies
