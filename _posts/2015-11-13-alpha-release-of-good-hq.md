@@ -34,7 +34,7 @@ We'll use the feedback that people post to generate community ratings for you, w
 
 #### Charity supporters, service users, professionals and others in the community
 
-You brilliant people can [sign up](https://goodhq.org/signup/) too! Once you're signed up you'll be able to post feedback for other users, and help us identify the most useful content on the site by voting on what you personally have found most helpful.
+You brilliant people can [sign up](https://goodhq.org/signup/) too! Once you're signed up you'll be able to post feedback about things you've involved with, and help us identify the most useful content on the site by voting on what you personally have found most helpful.
 
 ### What's next
 
