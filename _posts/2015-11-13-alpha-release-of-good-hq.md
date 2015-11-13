@@ -21,7 +21,7 @@ We're now accepting signups from the community, and we would totally love you to
 
 ### Join us ♥
 
-#### Charities, volutary organisations and social enterprises
+#### Charities, voluntary organisations and social enterprises
 
 If you run digital engagement or social media for a Scottish charity, voluntary organisation or social enterprise then **we need your help to test the product at scale**.
 
