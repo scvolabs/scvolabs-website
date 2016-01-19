@@ -59,9 +59,7 @@ We're a friendly bunch with diverse backgrounds and a common purpose. Come say h
 ### Labs team
 
 - Chris Yiu [@clry2](https://twitter.com/clry2)
-- Susan Murray [@ramsaymurray](https://twitter.com/ramsaymurray)
 - Alex Nuttgens [@anuttgens](https://twitter.com/anuttgens)
-- James Williams
 
 ### Labs advisors
 
