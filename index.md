@@ -71,6 +71,12 @@ We're a friendly bunch with diverse backgrounds and a common purpose. Come say h
 - Stewart Kirkpatrick [@calgacus](https://twitter.com/calgacus)
 
 
+### Alumni
+
+- Susan Murray [@RamsayMurray](https://twitter.com/RamsayMurray)
+- James Williams
+- Hoyam Mahmoud
+
 
 ## Get involved
 
