@@ -4,7 +4,7 @@ date: 2016-03-08
 author: Calum
 authorlink: https://twitter.com/calummacuisdean
 title: Under Construction
-excerpt: "We apologize for the inconvenience."
+excerpt: "We apologise for the inconvenience."
 tags: agile digital website platform development
 image:
 ---
