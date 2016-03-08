@@ -10,7 +10,6 @@ image:
 ---
 
 > de•vel•op (dɪˈvɛl əp) v.t.
-
 > 1. to bring out the possibilities of; bring to a more advanced, effective, or usable state
 
 This is the start of something big – a project to improve digital communication channels at SCVO.
