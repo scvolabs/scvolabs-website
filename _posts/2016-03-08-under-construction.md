@@ -23,7 +23,7 @@ The starting point – an audit of our current portfolio of websites. Over the y
 
 Secondly – a review, is it technically and operationally possible (or even desirable) to amalgamate all the websites and services into a single platform? Is that consistent with current user needs?
 
-Thirdly - an early consideration a coherent brand identity to be used across the organisation – not only for websites but for all digital and traditional communications messaging.
+Thirdly – an early consideration a coherent brand identity to be used across the organisation – not only for websites but for all digital and traditional communications messaging.
 
 ### Open Source 
 To foster a culture of transparency and openness we intend to promote and contribute to open source software projects. We'll also be opening up the source code of some libraries and software developed in-house that may be of use to others.  
