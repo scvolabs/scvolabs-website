@@ -4,7 +4,7 @@ date: 2016-05-16
 author: Alex
 authorlink: https://twitter.com/anuttgens
 title: Cloud Services Plaforms
-excerpt: Amazon Web Services, and how it helped me make [Good HQ](https://goodhq.org)
+excerpt: Amazon Web Services, and how it helped me make Good HQ
 tags: useful digital tools
 image:
 ---
