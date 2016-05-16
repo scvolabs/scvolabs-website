@@ -41,7 +41,7 @@ Cloud services like Amazon AWS, do away with the need for a [Systems Administrat
 
 ### GrapheneDB
 
-[GrapheneDB](http://www.graphenedb.com/) is a third party service, which exists both on AWS and Azure. It provides us with a [Neo4J](http://neo4j.com/) database, and does the maintenance (backups, restarts, configuration for us). Without Graphene, I'd have to set up and maintain our database on one of our servers.
+[GrapheneDB](http://www.graphenedb.com/) is a third party service, which exists both on AWS and Azure. It provides us with a [Neo4J](http://neo4j.com/) database, and does the maintenance (backups, restarts, configuration for us). Without Graphene, I would have to set up and maintain our database on one of our servers.
 
 
 ## The Result
