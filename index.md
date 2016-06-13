@@ -26,7 +26,7 @@ We're building it to do three things:
 * To empower people who want to share their experiences with charities and good causes for the benefit of others
 * To make it easier for people who want to get involved to find out what's happening and what people are saying
 
-The current status of this product is: **alpha**
+The current status of this product is: **beta**
 
 ## Technologies
 
