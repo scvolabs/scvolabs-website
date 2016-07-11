@@ -52,10 +52,11 @@ We're a friendly bunch with diverse backgrounds and a common purpose. Come say h
 ### Labs team
 
 - Alex Nuttgens [@anuttgens](https://twitter.com/anuttgens)
+- Calum MacÙisdean [@calummacuisdean](https://twitter.com/calummacuisdean)
+- Lauren Pluss [@LaurenPluss](https://twitter.com/LaurenPluss)
 
 ### Labs advisors
 
-- Calum MacÙisdean [@calummacuisdean](https://twitter.com/calummacuisdean)
 - Ally Tibbitt [@allytibbitt](https://twitter.com/allytibbitt)
 - Cat Macaulay [@operanomad](https://twitter.com/operanomad)
 - Graham Curran [@grahamrcurran](https://twitter.com/grahamrcurran)
